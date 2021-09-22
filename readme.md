@@ -4,7 +4,7 @@
 </br>
 
 <p align="center"> 
-  <img src="https://ai.github.io/size-limit/logo.svg"" alt="Sample signal" width="120" height="178">
+  <img src="pipe.png" width="50%" height="50%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
